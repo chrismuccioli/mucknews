@@ -2,6 +2,7 @@
 title: new post 2
 date: 2019-10-27 17:25:00 Z
 permalink: test
+Featured Image: "/uploads/21gap-ast1-superJumbo-v2.jpg"
 ---
 
 new post test
