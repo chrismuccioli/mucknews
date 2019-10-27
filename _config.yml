@@ -36,7 +36,7 @@ defaults:
     type: projects
   values:
     layout: project
-site: Made Jekyll Theme
+site: MUCK NEWS
 url: 
 baseurl: 
 markdown: kramdown
