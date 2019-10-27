@@ -44,6 +44,8 @@
 	],
 	"file_history":
 	[
+		"/Users/chrismuccioli/Documents/GitHub/mucknews/index.html",
+		"/Users/chrismuccioli/Documents/GitHub/mucknews/recent/index.html",
 		"/Users/chrismuccioli/muck-news/_posts/2019-06-30-demo-post.md",
 		"/Users/chrismuccioli/muck-news/index.html",
 		"/Users/chrismuccioli/muck-news/_config.yml",
@@ -70,6 +72,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"projects",
 			"blog",
 			"projects"
 		],
