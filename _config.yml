@@ -55,5 +55,4 @@ plugins:
 - jekyll-sitemap
 paginate: 7
 paginate_path: "/blog/page-:num/"
-
 theme: jekyll-theme-cayman
