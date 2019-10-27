@@ -9,6 +9,7 @@
 
 html, body {
 	height: 100%;
+	padding-top: 15vh;
 }
 
 body {
@@ -16,7 +17,7 @@ body {
 	font-family: $body-font;
 	font-weight: $regular-weight;
 	font-style: normal;
-	color: $text-dark-color;
+	color: #fff;
 	-webkit-font-smoothing: antialiased;
 	overflow-x: hidden;
 }
@@ -27,6 +28,43 @@ hr {
 	background-color: $border-color;
 }
 
+
+.topnav {
+  overflow: hidden;
+  position: fixed;
+  right: 10vh;
+  top: 10vh;
+  text-transform: uppercase;
+}
+
+.topnav a {
+  float: right;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  color: black;
+}
+
+/* Add an active class to highlight the current page */
+.topnav a.active {
+  color: white;
+}
+
+.top-logo {
+  width: 200px;
+  position: fixed;
+  top: 10vh;
+  left: 10vh;
+}
+
+.top-logo img {
+    width: 100%;
+}
 
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Page loading
