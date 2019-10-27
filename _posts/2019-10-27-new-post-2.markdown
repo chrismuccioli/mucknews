@@ -4,3 +4,5 @@ date: 2019-10-27 17:25:00 Z
 ---
 
 new post!!
+
+![21gap-ast1-superJumbo-v2.jpg](/uploads/21gap-ast1-superJumbo-v2.jpg)
