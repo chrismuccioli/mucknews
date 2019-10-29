@@ -31,6 +31,8 @@ defaults:
     type: posts
   values:
     layout: post
+    description: 
+    feature_image: 
 - scope:
     path: ''
     type: projects
