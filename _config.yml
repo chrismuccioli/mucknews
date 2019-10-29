@@ -32,7 +32,7 @@ defaults:
   values:
     layout: post
     description: 
-    feature_image: 
+    featured_image: 
 - scope:
     path: ''
     type: projects
