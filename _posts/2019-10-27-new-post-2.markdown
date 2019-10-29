@@ -1,5 +1,5 @@
 ---
-title: new post 2
+title: See you at NAMM?
 date: 2019-10-27 17:25:00 Z
 permalink: test
 featured_image: "/uploads/21gap-ast1-superJumbo-v2.jpg"
