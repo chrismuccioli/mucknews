@@ -34,6 +34,7 @@ hr {
   position: fixed;
   right: 10vh;
   top: 10vh;
+  z-index: 1;
 }
 
 .topnav a {
@@ -60,6 +61,7 @@ hr {
   top: 11vh;
   left: 10vh;
   opacity: 75%;
+  z-index: 1;
 }
 
 .top-logo img {
