@@ -9,3 +9,5 @@ featured_image: "/uploads/21gap-ast1-superJumbo-v2.jpg"
 new post test
 
 ![21gap-ast1-superJumbo-v2.jpg](/uploads/21gap-ast1-superJumbo-v2.jpg)
+
+[Test Link](http://www.m-u-c-k.com)
