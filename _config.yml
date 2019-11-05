@@ -41,7 +41,7 @@ defaults:
 site: Made Jekyll Theme
 url: 
 baseurl:
-trueurl: m-u-c-k.com
+trueurl: http://www.m-u-c-k.com
 markdown: kramdown
 highlighter: rouge
 kramdown:
