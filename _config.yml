@@ -40,7 +40,7 @@ defaults:
     layout: project
 site: Made Jekyll Theme
 url: 
-baseurl: /
+baseurl: "/"
 markdown: kramdown
 highlighter: rouge
 kramdown:
