@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/thanks</loc>
-<lastmod>2019-11-05T02:36:55+00:00</lastmod>
+<loc>http://localhost:4000/m-u-c-k.com/thanks</loc>
+<lastmod>2019-11-05T02:37:57+00:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2019/06/30/demo-post.html</loc>
+<loc>http://localhost:4000/m-u-c-k.com/2019/06/30/demo-post.html</loc>
 <lastmod>2019-06-30T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/test</loc>
+<loc>http://localhost:4000/m-u-c-k.com/test</loc>
 <lastmod>2019-10-27T17:25:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/project/demo-project</loc>
+<loc>http://localhost:4000/m-u-c-k.com/project/demo-project</loc>
 <lastmod>2019-07-24T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/index%20copy.html</loc>
+<loc>http://localhost:4000/m-u-c-k.com/index%20copy.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/blog/</loc>
+<loc>http://localhost:4000/m-u-c-k.com/blog/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>http://localhost:4000/m-u-c-k.com/</loc>
 </url>
 </urlset>
